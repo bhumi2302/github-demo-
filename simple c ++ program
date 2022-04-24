@@ -1,0 +1,9 @@
+# include <iostream.h>
+
+/* run this program using the console pauser or add your own getch , system ("pauser") or input loop */
+
+int main()
+{
+  std::cout << "HELLO WORLD!";
+  return 0;
+}   
