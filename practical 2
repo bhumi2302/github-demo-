@@ -1,0 +1,10 @@
+#include <iostream.h>
+
+int main()
+ {
+   int number;
+   cout<<"enter number:";
+   cin>>number;
+   cout<<"\n your entered:"<<number;
+   return 0;
+}   
