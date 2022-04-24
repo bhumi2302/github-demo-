@@ -1,0 +1,9 @@
+# include <iostream.h>
+
+int main()
+ {
+   int a=4,b;
+   b=10+a;
+   cout<<b;
+   return 0;
+} 
