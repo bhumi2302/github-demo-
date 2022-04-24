@@ -1,0 +1,8 @@
+#include <iostream.h>
+ 
+ int main()
+  {
+    cout<<"enter your age"<<age;
+    cin>>age;
+    cout<<"your age is:";
+ }
