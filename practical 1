@@ -2,8 +2,9 @@
 
 int main()
  {
-   int a=4,b;
-   b=10+a;
-   cout<<b;
+   int age;
+   cout<<" enter your age"<<age;
+   cin>>age;
+   cout<<"your age is:";
    return 0;
 } 
